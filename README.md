@@ -1,1 +1,1 @@
-# cifar100
+# CIFAR10 cnn machine learning
